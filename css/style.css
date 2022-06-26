@@ -1,0 +1,19 @@
+body{
+    background: url(../img/fundo.png)
+}
+p{
+    color:  #fff;
+}
+.container.img{ 
+    text-align: center;
+
+}
+.container{
+    margin-top: 2.5vh;
+    width: 20vw;
+    background-color: #302F2F;    
+}
+.container-fluid{   
+    margin-top: 2vh;
+    background-color: #484848;
+}
